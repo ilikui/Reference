@@ -4,8 +4,8 @@
   "description": "为开发人员分享快速参考备忘单(主要是方便自己)。",
   "author": "jaywcjlove",
   "license": "MIT",
-  "homepage": "https://jaywcjlove.github.io/reference",
-  "funding": "https://jaywcjlove.github.io/#/sponsor",
+  "homepage": "https://r.likui.info/",
+  "funding": "https://ilikui.github.io/#/sponsor",
   "private": false,
   "scripts": {
     "prepare": "husky install",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaywcjlove/reference.git"
+    "url": "https://github.com/ilikui/Reference.git"
   },
   "bugs": {
-    "url": "https://github.com/jaywcjlove/reference/issues"
+    "url": "https://github.com/ilikui/Reference/issues"
   },
   "keywords": [],
   "lint-staged": {
