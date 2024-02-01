@@ -1,4 +1,4 @@
-Quick Reference
+快速参考
 ===
 
 <!--rehype:ignore:start-->
