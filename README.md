@@ -193,7 +193,7 @@
 <!--rehype:class=home-card-->
 
 ## 考试管理
-[Bash](./docs/bash.md)<!--rehype:style=background: rgb(72 143 223);-->  
+[ISPM](./docs/ispm.md)<!--rehype:style=background: rgb(72 143 223);-->  
 ## 快捷键
 
 [Adobe Lightroom](./docs/adobe-lightroom.md)<!--rehype:style=background: rgb(49 168 255);-->  
